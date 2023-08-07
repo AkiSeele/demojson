@@ -1,7 +1,12 @@
-[
-  {
-    "id": "1",
-    "name": "测试A",
-    "content": "这里是测试内容AAA"
+{
+  "posts": [
+    {
+      "id": 1，
+      "title": "hello"
+      "conter": "这里是测试内容"
+    }
+  ]，
+  "profile": {
+    "name": "typicode"
   }
-]
+}
