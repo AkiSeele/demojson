@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      "id": 1，
+      "id": 1,
       "title": "hello"
       "conter": "这里是测试内容"
     }
-  ]，
+  ],
   "profile": {
     "name": "typicode"
   }
